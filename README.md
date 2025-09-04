@@ -83,7 +83,7 @@ GameNet merges community, creativity, and careers — all within an immersive, a
 🔗 [LinkedIn](https://www.linkedin.com/in/pinky-kondeti-721a36286/)
 
 ---
-view Demo: https://bolt-project-ecru.vercel.app/
+view Demo: [https://bolt-project-ecru.vercel.app/](https://bolt-project-psi.vercel.app/)
 ## ⚡ Quick Start
 
 ```bash
